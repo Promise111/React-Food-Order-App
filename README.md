@@ -1,7 +1,7 @@
 
 # React Food Order App
 
-This project was bootstrapped with Create React App.
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 One of a series of personal projects I am building to master ReactJS.
 This project manages a cart state using React Context and passes the state to different components of the project for a fully functionional and dynamic simple e-commerce UI.
