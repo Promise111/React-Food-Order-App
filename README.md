@@ -4,6 +4,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 One of a series of personal projects I am building to master ReactJS.
+Functional Application with no backend or connection to an API.
 This project manages a cart state using React Context and passes the state to different components of the project to render a fully functional and dynamic simple e-commerce UI.
 
 
